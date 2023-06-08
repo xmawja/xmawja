@@ -10,7 +10,7 @@
         Hello There
       <br>
         I'm Muja, a soft/hardware architect of high-end solutions and full-stack DevSecOps  
-Magician, I ❤️ FOSS and BUGs, and I don't like  .
+        Magician, <br> I ❤️ FOSS. </br>
       </b>
       <br>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+goal+is+a+dream+with+a+deadline." alt="Typing SVG" /></a>
